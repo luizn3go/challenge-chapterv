@@ -25,7 +25,7 @@
 
 4. Run: "npm run cy:open" to open cypress
 
-![](open.gif)
+![](cyopen.gif)
 
 5. Select "signin.spec.js" to run the tests
 
